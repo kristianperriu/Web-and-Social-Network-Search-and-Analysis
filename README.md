@@ -2,6 +2,7 @@
 Web and Social Network Search and Analysis Project for Community Detection
 
 - Define the objectives of the analysis
+  - Kendrick Lamar v.s. Drake
 - Collect data (text, network-related, metadata)
 - Analysis:
     - Network Analysis (e.g., measures of centrality, community detection, …).
